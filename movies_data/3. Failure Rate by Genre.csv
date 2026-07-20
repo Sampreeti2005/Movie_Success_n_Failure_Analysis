@@ -1,0 +1,14 @@
+"primary_genre","total_movies","failure_count","failure_rate_pct"
+Animation,1,1,100.00
+Crime,1,1,100.00
+Fantasy,1,1,100.00
+Science Fiction,11,8,72.73
+Other,17,11,64.71
+Adventure,42,27,64.29
+Action,361,214,59.28
+Drama,339,193,56.93
+Family,9,5,55.56
+Thriller,75,38,50.67
+Comedy,355,170,47.89
+Romance,8,2,25.00
+Horror,24,6,25.00
